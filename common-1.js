@@ -124,10 +124,10 @@ $(function () {
         type: "LiveStream",
         constraints: {
           width: {
-            min: 1280
+            min: 640
           },
           height: {
-            min: 720
+            min: 480
           },
           aspectRatio: {
             min: 1,
