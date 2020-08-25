@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "https://khlystun.github.io/api/images/intro/image.png"
+  },
+  {
+    "id": "2",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "https://khlystun.github.io/api/images/intro/image.png"
+  },
+  {
+    "id": "3",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem dolore magna aliqua.",
+    "image": "https://khlystun.github.io/api/images/intro/image.png"
+  }
+]
