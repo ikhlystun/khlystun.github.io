@@ -2,32 +2,630 @@
   {
     "id": "1",
     "name": "Івано-Франківська",
+    "type": "область",
     "image": "https://khlystun.github.io/api/images/regions/region-1.png"
   },
   {
     "id": "2",
     "name": "Київська",
+    "type": "область",
     "image": "https://khlystun.github.io/api/images/regions/region-2.png"
   },
   {
     "id": "3",
     "name": "Кіровоградська",
+    "type": "область",
     "image": "https://khlystun.github.io/api/images/regions/region-3.png"
   },
   {
     "id": "4",
     "name": "Крим",
     "type": "Автономна Республіка",
+    "type": "область",
     "image": "https://khlystun.github.io/api/images/regions/region-4.png"
   },
   {
     "id": "5",
     "name": "Луганська",
+    "type": "область",
     "image": "https://khlystun.github.io/api/images/regions/region-5.png"
   },
   {
     "id": "6",
     "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-6.png"
+  },
+  {
+    "id": "1",
+    "name": "Івано-Франківська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Київська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-2.png"
+  },
+  {
+    "id": "3",
+    "name": "Кіровоградська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Крим",
+    "type": "Автономна Республіка",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-4.png"
+  },
+  {
+    "id": "5",
+    "name": "Луганська",
+    "type": "область",
+    "image": "https://khlystun.github.io/api/images/regions/region-5.png"
+  },
+  {
+    "id": "6",
+    "name": "Львів",
+    "type": "область",
     "image": "https://khlystun.github.io/api/images/regions/region-6.png"
   }
 ]
