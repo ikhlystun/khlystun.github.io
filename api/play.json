@@ -1,4 +1,4 @@
-[
+{
   "title": "обирай та мандруй",
   "image": "https://khlystun.github.io/api/images/region-header-image.png",
   "regions": [
@@ -353,4 +353,4 @@
       "progress": 92
     }
   ]
-]
+}
